@@ -97,4 +97,3 @@ That's it! The app is ready to use.
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-```
