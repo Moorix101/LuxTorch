@@ -63,7 +63,7 @@ LuxTorch operates by listening to two key hardware sensors on your device:
 
 Setting up the app is quick and easy.
 
-1.  Download the latest APK from the [Releases](link/to/your/releases) page.
+1.  Download the latest APK from the [Releases](https://github.com/Moorix101/LuxTorch/releases) page.
 2.  Install the APK on your Android device.
 3.  On first launch, grant the **Camera Permission** when prompted. This is required for the app to control the camera's LED flash.
 
