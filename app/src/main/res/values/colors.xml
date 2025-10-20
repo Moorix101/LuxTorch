@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Purple Theme - Premium Gradient Colors -->
+    <color name="background_dark">#0D0616</color>
+    <color name="background_gradient_start">#1A0F2E</color>
+    <color name="background_gradient_end">#0D0616</color>
+
+    <!-- Card & Glass Effects -->
+    <color name="card_background">#1F1333</color>
+    <color name="glass_background">#2D1B4E</color>
+    <color name="glass_border">#4A2D6E</color>
+
+    <!-- Purple Palette -->
+    <color name="purple_primary">#A78BFA</color>
+    <color name="purple_accent">#C4B5FD</color>
+    <color name="purple_light">#DDD6FE</color>
+    <color name="purple_dark">#6D28D9</color>
+    <color name="purple_darker">#4C1D95</color>
+    <color name="purple_glow">#8B5CF6</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#C4B5FD</color>
+    <color name="text_hint">#8B7BA8</color>
+
+    <!-- UI Elements -->
+    <color name="progress_background">#2D1B4E</color>
+    <color name="divider">#3D2656</color>
+
+    <!-- Flash States -->
+    <color name="flash_on">#FCD34D</color>
+    <color name="flash_off">#6B7280</color>
+
+    <!-- Status Indicators -->
+    <color name="status_active">#34D399</color>
+    <color name="status_inactive">#6B7280</color>
+
+    <!-- System colors -->
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+</resources>

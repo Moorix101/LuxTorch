@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Outer Ring -->
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="@color/purple_darker" />
+        </shape>
+    </item>
+
+    <!-- Inner Circle -->
+    <item android:top="8dp" android:bottom="8dp" android:left="8dp" android:right="8dp">
+        <shape android:shape="oval">
+            <gradient
+                android:angle="135"
+                android:startColor="@color/purple_dark"
+                android:endColor="@color/purple_darker"
+                android:type="linear" />
+            <stroke
+                android:width="2dp"
+                android:color="@color/purple_accent" />
+        </shape>
+    </item>
+</layer-list>
